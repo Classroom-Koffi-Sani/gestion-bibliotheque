@@ -1,6 +1,12 @@
 # gestion-bibliotheque
 Application de gestion d'une bibliothèque
 
+## Membres du groupe
+- ALFA
+- BINIZI
+- KABOUSSOU
+- NYAGBE
+
 ## Objectif
 ESGIS souhaite informatiser la gestion de sa bibliothèque. Il s'agit de créer une application permettant au gérant de la bibliothèque bien effectuer son travail.
 
