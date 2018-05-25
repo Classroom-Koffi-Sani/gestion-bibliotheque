@@ -1,0 +1,7 @@
+.Banniere{background-color: #34495e; padding: 10px;}
+.Banniere a{color: #fff;  margin-left: 25px; }
+.Banniere a:hover{color: blue; background-color: #ccc; padding: 10px; text-decoration: none;}
+#numero1 strong{text-align: right;}
+.CreAdhMenu{background-color: #34495e; padding: 10px;}
+.CreAdhMenu a{color: #fff;  margin-left: 25px; }
+.CreAdhMenu a:hover{color: blue; background-color: #ccc; padding: 10px; text-decoration: none;}

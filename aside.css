@@ -1,0 +1,4 @@
+.rows{border: 1px solid black; padding-bottom:83%; background-color: #ccc; margin: 0px; width: 80%;}
+.rows li{ font-size: 15px;line-height: 20px; padding: 12px; cursor: pointer;}
+.list-unstyled li:hover{background-color: #DeDeDe;}
+.activer{background-color: #fff;}
